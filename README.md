@@ -1,3 +1,9 @@
 PARA INICIAR A INSTALAÇÃO COPIE 
-"sh"
-https://github.com/endblack/painelMod.git
+1. copie as dependências:
+
+```bash
+git clone https://github.com/tatahaker/PainelDT.git
+cd PainelDT
+ls
+bash i.sh3
+```
