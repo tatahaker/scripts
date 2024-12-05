@@ -5,5 +5,6 @@ PARA INICIAR A INSTALAÇÃO COPIE
 git clone https://github.com/tatahaker/PainelDT.git
 cd PainelDT
 ls
-bash i.sh3
+bash i.sh
+
 ```
