@@ -40,7 +40,7 @@ clear
 echo "Em Qual Porta Você Quer Ativar?"
 read porta
 echo
-echo "Intalando Painel Dtmod..."
+echo "Intalando PainelDT..."
 echo
 sleep 3
 #========================
@@ -56,8 +56,8 @@ apt install git -y
 curl -fsSL https://deb.nodesource.com/setup_20.x | bash
 apt-get install -y nodejs -y
 #=========================
-git clone https://github.com/endblack/painelMod.git
-cd /root/painelMod
+git clone https://github.com/tatahaker/PainelDT.git
+cd /root/PainelDT
 chmod 777 pon poff menuop backmod
 mv pon poff menuop backmod /bin
 echo "PORT=$porta" > .env
@@ -78,7 +78,7 @@ clear
 echo
 echo
 echo "TUDO INSTALADO!"
-echo "Os Arquivos Ficam Na Pasta /root/painelMod"
+echo "Os Arquivos Ficam Na Pasta /root/PainelDT"
 echo
 echo "Comando para ATIVAR: pon"
 echo "Comando para DESATIVAR: poff"
