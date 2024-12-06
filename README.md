@@ -3,6 +3,6 @@ PARA INICIAR A INSTALAÇÃO COPIE
 
 ```bash
 git clone https://github.com/tatahaker/https-github.com-endblack-painelMod.git
-bash i.sh -y
+bash i.sh
 
 ```
