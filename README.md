@@ -7,8 +7,10 @@ git clone https://github.com/tatahaker/https-github.com-endblack-painelMod.git
 ls
 cd scripts
 ls
-mv [i.sh]/[root]
-cd https-github.com-endblack-painelMod
+cp i.sh /root
+cd ..
+rmdir -r scripts
+cd root
 bash i.sh
-rmdir https-github.com-endblack-painelMod
+
 ```
