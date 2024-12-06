@@ -10,7 +10,7 @@ ls
 cp i.sh /root
 cd ..
 rm -r scripts
-cd root
+cd /root
 bash i.sh
 
 ```
