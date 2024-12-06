@@ -3,7 +3,7 @@ PARA INICIAR A INSTALAÇÃO COPIE
 
 ```bash
 cd ..
-git clone https://github.com/tatahaker/https-github.com-endblack-painelMod.git
+git clone https://github.com/tatahaker/scripts.git
 ls
 cd scripts
 ls
