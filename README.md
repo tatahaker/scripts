@@ -9,7 +9,7 @@ cd scripts
 ls
 cp i.sh /root
 cd ..
-rmdir -r scripts
+rm -r scripts
 cd root
 bash i.sh
 
