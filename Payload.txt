@@ -1,7 +1,7 @@
 {
   "Version": "1.1.18",
   "ReleaseNotes": "＼(^_^)／ teste AD NETWORK ATUALIZAÇÃO PRA MANUTENÇÃO ⚡️VIVO RECAREGA ATIVA⚡️",
-  "UrlUpdate": "https://bitbin.it/rQH15WPB/raw/",
+  "UrlUpdate": "https://raw.githubusercontent.com/tatahaker/scripts/refs/heads/main/Payload.txt",
   "Sms": "https://bitbin.it/wA1MkGZ6/raw/",
   "EmailFeedback": "atatat111tata@gmail.com",
   "UrlContato": "https://api.whatsapp.com/send/?phone=+5533999894698&text&app_absent=",
