@@ -1,0 +1,190 @@
+{
+  "Version": "1.1.18",
+  "ReleaseNotes": "⚡️⚡️AD NETWORK ATUALIZAÇÃO PRA MANUTENÇÃO ⚡️VIVO RECAREGA ATIVA⚡️",
+  "UrlUpdate": "https://bitbin.it/rQH15WPB/raw/",
+  "Sms": "https://bitbin.it/wA1MkGZ6/raw/",
+  "EmailFeedback": "atatat111tata@gmail.com",
+  "UrlContato": "https://api.whatsapp.com/send/?phone=+5533999894698&text&app_absent=",
+  "UrlTermos": "https://bitbin.it/wA1MkGZ6/raw/",
+ "CheckUser":"true",
+ "FormatCheck":"yyyymmdd",
+ "Udp": [
+   {
+      "Porta": "7100"
+     },
+   {
+      "Porta": "7200"
+     },
+ {
+      "Porta": "7300"
+     },
+{
+      "Porta": "7400"
+     },
+ {
+      "Porta": "7500"
+     }, 
+{
+      "Porta": "8989"
+     }
+],
+  "Servers": [
+    {
+"Name": "✈️NÃO PEGOU LIGA DESLIGA MODO AVIÃO✈️",
+      "TYPE": "premium",
+      "FLAG": "bd.png",
+      "ServerIP": "104.18.33.113",
+      "CheckUser": "http://149.78.186.62:5000/checkUser",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "USER": "LUCAS37",
+      "PASS": "101020"
+},
+
+],
+"Networks": [ 
+     {
+      "Name": "🇧🇷 VIVO recarega 🇧🇷1",
+      "FLAG": "vivo",
+      "Payload": "CONNECT usa.hackkcah.uk@ad.apontamento.online [protocol][crlf]Host: usa.hackkcah.uk[crlf]X-Online-Host: usa.hackkcah.uk[crlf]X-Forward-Host: 149.78.186.62[crlf]X-Forwarded-For: 149.78.186.62[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: 149.78.186.62[crlf]Upgrade: websocket[crlf]CONNECT ad.apontamento.online [protocol][crlf][crlf]CONNECT 149.78.186.62@ad.apontamento.online [protocol][crlf]Host: 149.78.186.62[crlf]X-Online-Host: 149.78.186.62[crlf]X-Forward-Host: 149.78.186.62[crlf]X-Forwarded-For: 149.78.186.62[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: 149.78.186.62[crlf]Upgrade: websocket[crlf]CONNECT ad.apontamento.online [protocol][crlf][crlf]",
+      "SNI": "157.254.54.42.",
+      "TlsIP": "157.254.54.42",
+      "ProxyIP": "157.254.54.42",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+   {
+      "Name": "🇧🇷 VIVO recarega 🇧🇷 2",
+      "FLAG": "vivo",
+      "Payload": "[rotate=ACL;GET;PATCH;HEAD] wss://[rotate=seufront;seuflare]/ HTTP/1.0[crlf]Host: [rotate=web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;m.waze.com;m.twitter.com;twitter.com;c.whatsapp.net;media.whatsapp.net;web.whatsapp.com;m.waze.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;m.waze.com;m.twitter.com;twitter.com;web.whatsapp.com;media.whatsapp.net;c.whatsapp.net;musicaclaro.com.br][crlf]Upgrade: Websocket[crlf]Proxy-Connection: Keep-Alive; Upgrade[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]tl[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "157.254.54.42",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+     {
+      "Name": "🇧🇷 VIVO recarega 🇧🇷 3",
+      "FLAG": "vivo",
+      "Payload": "CONNECT 149.78.186.62@ad.apontamento.online [protocol][crlf]Host: 149.78.186.62[crlf]X-Online-Host: 149.78.186.62[crlf]X-Forward-Host: 149.78.186.62[crlf]X-Forwarded-For: 149.78.186.62[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: 149.78.186.62[crlf]Upgrade: websocket[crlf]CONNECT ad.apontamento.online [protocol][crlf][crlf]CONNECT 149.78.186.62@ad.apontamento.online [protocol][crlf]Host: 149.78.186.62[crlf]X-Online-Host: 149.78.186.62[crlf]X-Forward-Host: 149.78.186.62[crlf]X-Forwarded-For: 149.78.186.62[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Referer: 149.78.186.62[crlf]Upgrade: websocket[crlf]CONNECT ad.apontamento.online [protocol][crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "157.254.54.42",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },{
+      "Name": "♨️VIVO EASY 1♨️",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=ad.atts3.shop;ad.apontamento.online][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.37.84",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+{
+      "Name": "♨️VIVO EASY ♨️",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=ad.atts3.shop;ad.apontamento.online][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.16.126.175",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+{
+      "Name": "♨️VIVO EASY 3♨️",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=ad.atts3.shop;ad.atts3.shop][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.18.37.248",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+{
+      "Name": "♨️VIVO EASY 4♨️",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=ad.atts3.shop;ad.apontamento.online][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.17.74.206",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+   {
+      "Name": "♨️VIVO EASY 5♨️",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=ad.aatts3.shop;ad.apontamento.online][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ad.apontamento.online",
+      "TlsIP": "",
+      "ProxyIP": "104.18.43.147",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+{
+      "Name": "♨️VIVO EASY 6♨️",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=ad.atts3.shop.shop;atts3.shop][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ad.77ats.website",
+      "TlsIP": "",
+      "ProxyIP": "104.17.71.206",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+{
+      "Name": "♨️VIVO EASY 7♨️",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=ad.atts3.shop.shop;atts3.shop][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ad.77ats.website",
+      "TlsIP": "",
+      "ProxyIP": "104.26.5.32",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+   {
+      "Name": "♨️VIVO EASY 8♨️",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=ad.atts3.shop.shop;atts3.shop][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ad.77ats.website",
+      "TlsIP": "",
+      "ProxyIP": "172.67.188.168",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+   {
+      "Name": "♾️VIVO recarega ♾️",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=ad.apontamento.online][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "149.78.186.62",
+      "TlsIP": "149.78.186.62",
+      "ProxyIP": "149.78.186.62",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+   {
+      "Name": "VIVO EASY EMERGÊNCIA",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=97l34st03w701639i6.speedup.mobi][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.166.72",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+  {
+        "Name": "VIVO EASY EMERGÊNCIAb2",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=97l34st03w701639i6.speedup.mobi][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.166.72",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+       
+       },,
+         
+                                                  
+                                                  ] 
+                                                  
+                                                  }
