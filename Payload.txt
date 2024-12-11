@@ -1,6 +1,6 @@
 {
   "Version": "1.1.18",
-  "ReleaseNotes": "⚡️⚡️AD NETWORK ATUALIZAÇÃO PRA MANUTENÇÃO ⚡️VIVO RECAREGA ATIVA⚡️",
+  "ReleaseNotes": "＼(^_^)／ teste AD NETWORK ATUALIZAÇÃO PRA MANUTENÇÃO ⚡️VIVO RECAREGA ATIVA⚡️",
   "UrlUpdate": "https://bitbin.it/rQH15WPB/raw/",
   "Sms": "https://bitbin.it/wA1MkGZ6/raw/",
   "EmailFeedback": "atatat111tata@gmail.com",
