@@ -1,6 +1,6 @@
 {
-  "Version": "1.1.18",
-  "ReleaseNotes": "＼(^_^)／ teste AD NETWORK ATUALIZAÇÃO PRA MANUTENÇÃO ⚡️VIVO RECAREGA ATIVA⚡️",
+  "Version": "1.1.19",
+  "ReleaseNotes": "AD NETWORK ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/tatahaker/scripts/refs/heads/main/Payload.txt",
   "Sms": "https://bitbin.it/wA1MkGZ6/raw/",
   "EmailFeedback": "atatat111tata@gmail.com",
@@ -34,11 +34,11 @@
       "TYPE": "premium",
       "FLAG": "bd.png",
       "ServerIP": "104.18.33.113",
-      "CheckUser": "http://149.78.186.62:5000/checkUser",
+      "CheckUser": "http://157.254.54.42:5000/checkUser",
       "ServerPort": "80",
       "SSLPort": "443",
-      "USER": "LUCAS37",
-      "PASS": "101020"
+      "USER": "",
+      "PASS": ""
 },
 
 ],
