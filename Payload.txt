@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.19",
+  "Version": "1.1.20",
   "ReleaseNotes": "AD NETWORK ATUALIZAÇÃO",
   "UrlUpdate": "https://raw.githubusercontent.com/tatahaker/scripts/refs/heads/main/Payload.txt",
   "Sms": "https://bitbin.it/wA1MkGZ6/raw/",
