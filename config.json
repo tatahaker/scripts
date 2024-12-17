@@ -4,7 +4,7 @@
         "description": "PLANO VIVO PRE ",
         "mode": "SSH_DIRECT",
         "tls_version": "TLSv1.2",
-        "sorter": 10,
+        "sorter": 9,
         "status": "ACTIVE",
         "auth": {
             "username": null,
@@ -46,7 +46,7 @@
         "description": "SALDO VALIDO",
         "mode": "SSH_PROXY",
         "tls_version": "TLSv1.2",
-        "sorter": 21,
+        "sorter": 20,
         "status": "ACTIVE",
         "auth": {
             "username": null,
