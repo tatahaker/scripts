@@ -86,4 +86,4 @@ echo
 echo "Digite menuop Para ver o menu"
 echo
 rm /root/i.sh
-pon
+run
