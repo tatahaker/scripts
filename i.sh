@@ -10,9 +10,9 @@ exit 0
 
 ubuntuV=$(lsb_release -r | awk '{print $2}' | cut -d. -f1)
 
-[[ $(($ubuntuV < 20)) = 1 ]] && {
+[[ $(($ubuntuV < 16)) = 1 ]] && {
 clear
-echo "A Versão Do Ubuntu Tem Que Ser No Mínimo 20, A Sua É $ubuntuV"
+echo "A Versão Do Ubuntu Tem Que Ser No Mínimo 16, A Sua É $ubuntuV"
 echo
 rm /root/i.sh
 exit 0
