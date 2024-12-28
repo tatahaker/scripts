@@ -80,7 +80,7 @@ echo
 echo "TUDO INSTALADO!"
 echo "Os Arquivos Ficam Na Pasta /root/PainelDT"
 echo
-echo "Comando para ATIVAR: pon"
+echo "Comando para ATIVAR: run"
 echo "Comando para DESATIVAR: poff"
 echo
 echo "Digite menuop Para ver o menu"
