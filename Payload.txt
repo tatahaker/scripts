@@ -1,6 +1,6 @@
 {
-  "Version": "1.1.20",
-  "ReleaseNotes": "AD NETWORK ATUALIZAÇÃO",
+  "Version": "1.1.21",
+  "ReleaseNotes": "AD NETWORK ATUALIZAÇÃO VIVO easy 7 teste",
   "UrlUpdate": "https://raw.githubusercontent.com/tatahaker/scripts/refs/heads/main/Payload.txt",
   "Sms": "https://bitbin.it/wA1MkGZ6/raw/",
   "EmailFeedback": "atatat111tata@gmail.com",
@@ -136,9 +136,9 @@
       "Name": "♨️VIVO EASY 7♨️",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=ad.atts3.shop.shop;atts3.shop][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "ad.77ats.website",
+      "SNI": "ad.atts3.shop",
       "TlsIP": "",
-      "ProxyIP": "104.26.5.32",
+      "ProxyIP": "172.64.150.8",
       "ProxyPort": "80",
       "Info": "Proxy"
    },
